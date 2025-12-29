@@ -1,0 +1,19 @@
+JOB TITLE: Junior Python Backend Developer
+COMPANY: robusta (Maadi, Cairo)
+
+WE ARE LOOKING FOR:
+A backend developer who loves writing clean, testable code.
+
+TECH STACK:
+- Python 3.9+
+- Django or FastAPI.
+- PostgreSQL.
+- Redis.
+- AWS (EC2, S3) basics.
+
+REQUIREMENTS:
+- Solid understanding of RESTful API design.
+- Ability to write Unit Tests (PyTest).
+- Experience with Linux environment.
+- Understanding of CI/CD pipelines is a bonus.
+- Ability to work in an Agile environment.

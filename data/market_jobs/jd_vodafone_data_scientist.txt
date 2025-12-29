@@ -1,0 +1,19 @@
+JOB TITLE: Data Scientist (Fresh Graduate)
+COMPANY: Vodafone Intelligent Solutions (Smart Village, Giza)
+
+ROLE OVERVIEW:
+Join our Data Analytics team to build predictive models that serve millions of customers.
+
+KEY RESPONSIBILITIES:
+- Analyze large datasets to extract actionable insights.
+- Build predictive models using Scikit-Learn and XGBoost.
+- Visualize data using Tableau or PowerBI.
+- Collaborate with data engineers to build ETL pipelines.
+
+QUALIFICATIONS:
+- 0-2 years of experience in Data Science.
+- Strong SQL skills are non-negotiable.
+- Proficiency in Python libraries (Pandas, NumPy, Matplotlib).
+- Strong communication skills in English (B2/C1 level).
+- Understanding of A/B testing methodologies.
+- Military status must be identified (Exempted, Completed, or Postponed).

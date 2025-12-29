@@ -1,0 +1,18 @@
+JOB TITLE: Junior AI/ML Engineer
+COMPANY: Instabug (Cairo, Egypt - Hybrid)
+
+ABOUT THE ROLE:
+We are looking for a passionate Junior AI Engineer to join our squad. You will work on shipping ML features that help mobile developers monitor bugs.
+
+REQUIREMENTS:
+- Bachelor's degree in Computer Science or Engineering (Helwan, Cairo, Ain Shams preferred).
+- Strong proficiency in Python and OOP principles.
+- Experience with Deep Learning frameworks (PyTorch or TensorFlow).
+- Basic understanding of NLP techniques (Text Classification, NER).
+- Familiarity with version control (Git/GitHub) is a MUST.
+- Knowledge of Docker and containerization is a huge plus.
+- Excellent problem-solving skills (Competitive Programming background is preferred).
+
+NICE TO HAVE:
+- Experience with RAG (Retrieval Augmented Generation).
+- Deployed a model to production using FastAPI or Flask.

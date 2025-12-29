@@ -1,0 +1,48 @@
+JOB TITLE: AI Engineer
+COMPANY: TechVentures Egypt (Maadi, Cairo - On-site)
+
+ABOUT THE COMPANY:
+TechVentures Egypt is a growing AI startup based in Maadi, Cairo. We specialize in building intelligent automation solutions for the MENA region. Our team works on cutting-edge NLP and Computer Vision projects for leading regional enterprises.
+
+ABOUT THE ROLE:
+We are looking for a talented AI Engineer to join our Cairo team. You will work on designing, developing, and deploying machine learning models that solve real business problems. This is a hands-on role perfect for someone passionate about AI who wants to grow with a fast-paced startup.
+
+REQUIREMENTS:
+- Bachelor's degree in Computer Science, Engineering, or related field (AUC, Cairo University, Ain Shams, or equivalent).
+- 0-2 years of experience in ML/AI (Fresh graduates with strong projects are welcome).
+- Strong proficiency in Python and software engineering best practices.
+- Experience with Deep Learning frameworks: PyTorch is preferred, TensorFlow is acceptable.
+- Understanding of NLP fundamentals: Transformers, BERT, Text Classification, Named Entity Recognition.
+- Experience with building and deploying REST APIs (FastAPI or Flask).
+- Familiarity with Docker and containerization concepts.
+- Version control with Git/GitHub is mandatory.
+- Strong problem-solving skills - competitive programming background is highly valued.
+
+NICE TO HAVE:
+- Experience with RAG (Retrieval Augmented Generation) or LangChain.
+- Familiarity with cloud platforms (GCP, AWS, or Azure).
+- Experience with vector databases (Pinecone, ChromaDB, FAISS).
+- Published papers or Kaggle competition experience.
+- Open source contributions.
+
+WHAT WE OFFER:
+- Competitive salary package (negotiable based on experience).
+- Flexible working hours.
+- Health insurance coverage.
+- Learning and development budget.
+- Opportunity to work on impactful AI projects.
+- Modern office in Maadi with free parking.
+
+REQUIREMENTS FOR EGYPTIAN CANDIDATES:
+- Must have completed (or currently exempt from) Military Service.
+- Must be a Cairo or Giza resident, or willing to relocate.
+- Excellent English communication skills (written and spoken).
+- Arabic fluency required.
+
+TO APPLY:
+Send your CV and portfolio/GitHub to careers@techventures.eg
+Include "AI Engineer - Your Name" in the subject line.
+
+Posted: December 2024
+Location: Maadi, Cairo, Egypt
+Employment Type: Full-time, On-site

@@ -1,0 +1,47 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Data & Persistence
+chroma_db/
+# Keep the directories but ignore content if desired, or commit sample data?
+# For a repo, we usually want to commit sample data but ignore real data.
+# We will keep data/market_jobs and data/student_cvs committed with samples.
+# Ignoring other potential temp data files
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,22 @@
+NAME: Ahmed Hassan
+EDUCATION:
+- B.Sc. in Computer Science & AI, Helwan University (Expected 2026)
+- GPA: 3.4/4.0
+
+TECHNICAL SKILLS:
+- Languages: Python, C++, Java.
+- AI/ML: Scikit-Learn, Pandas, NumPy, Basic TensorFlow.
+- Web: HTML, CSS, Basic Flask.
+- Tools: VS Code, Jupyter Notebooks.
+
+PROJECTS:
+1. Plant Disease Detection: Used CNNs to classify plant diseases from images. Achieved 90% accuracy.
+2. Library Management System: Built a desktop app using Java and MySQL.
+3. Snake Game: Developed a simple game using C++.
+
+LANGUAGES:
+- Arabic (Native)
+- English (Intermediate)
+
+INTERESTS:
+- Problem Solving (HackerRank), Reading, Football.
