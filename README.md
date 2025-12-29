@@ -1,10 +1,13 @@
 # 🇪🇬 Skill-Gap Masr (سد فجوة المهارات)
 
+> **🚀 Try it now:** [**skillgapmasr.streamlit.app**](https://skillgapmasr.streamlit.app)
+
 **Bridge the gap between your skills and the Egyptian tech job market.**
 
 Skill-Gap Masr is a **RAG (Retrieval-Augmented Generation)** powered career advisor designed specifically for Egyptian Computer Science students and fresh graduates. It analyzes your CV against real job descriptions from top local tech companies (Instabug, Swvl, Vodafone IS, etc.) to identify skill gaps and provide actionable, localized learning recommendations.
 
-![Streamlit UI](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-Llama_3-orange?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skillgapmasr.streamlit.app)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-Llama_3-orange?style=flat-square)
 
 ---
 
@@ -33,7 +36,7 @@ Skill-Gap Masr is a **RAG (Retrieval-Augmented Generation)** powered career advi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SkillGapMasr.git
+git clone https://github.com/moazmo/SkillGapMasr.git
 cd SkillGapMasr
 ```
 

@@ -219,20 +219,24 @@ if analyze_clicked:
     if not cv_text.strip():
         st.warning("⚠️ Please enter your CV content above.")
     else:
-        # Check for API key
+        # Check for API key (supports both .env and Streamlit Cloud secrets)
         import os
         from dotenv import load_dotenv
 
         load_dotenv()
 
-        api_key = os.getenv("GROQ_API_KEY")
+        # Try Streamlit secrets first (for cloud deployment), then fall back to .env
+        api_key = st.secrets.get("GROQ_API_KEY", None) or os.getenv("GROQ_API_KEY")
         if not api_key or api_key == "your_api_key_here":
             st.error("""
             ❌ **Groq API Key not configured!**
             
+            **For local development:**
             1. Get a FREE API key from [Groq Console](https://console.groq.com/keys)
             2. Add `GROQ_API_KEY=your_key` to your `.env` file
-            3. Restart the app
+            
+            **For Streamlit Cloud:**
+            Add `GROQ_API_KEY` in your app's Secrets settings.
             """)
         else:
             st.markdown("---")

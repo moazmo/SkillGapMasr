@@ -94,7 +94,13 @@ class SkillGapAnalyzer:
         Raises:
             ValueError: If GOOGLE_API_KEY environment variable is not set
         """
-        groq_api_key = os.getenv("GROQ_API_KEY")
+        # Try Streamlit secrets first (for cloud deployment), then fall back to .env
+        try:
+            import streamlit as st
+            groq_api_key = st.secrets.get("GROQ_API_KEY", None) or os.getenv("GROQ_API_KEY")
+        except Exception:
+            groq_api_key = os.getenv("GROQ_API_KEY")
+            
         if not groq_api_key or groq_api_key == "your_api_key_here":
             raise ValueError(
                 "GROQ_API_KEY not set!\n"
